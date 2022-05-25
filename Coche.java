@@ -1,4 +1,4 @@
-package com.company;
+package com.compan
 
 public class Coche {
         private int puertas;
